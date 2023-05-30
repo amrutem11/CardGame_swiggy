@@ -1,5 +1,6 @@
-package entity;
+package main;
 
+import entity.Game;
 import exception.PlayerException;
 
 public class Main {

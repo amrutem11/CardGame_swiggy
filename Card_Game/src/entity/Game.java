@@ -163,7 +163,9 @@ public class Game {
             // to determine the next player
             playerTurn += direction;
 
-            System.out.println("->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-");
+            System.out.println();
+            System.out.println("-------- :::::: -------- ::::::: --------");
+            System.out.println();
         }
 
 
